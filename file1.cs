@@ -1,0 +1,28 @@
+using System;
+
+
+public class Hello{
+
+    public static void Main(){
+
+        int a = 1;
+
+        for(  ; a++ < 10 ;  )
+
+        {
+
+            
+
+            Console.WriteLine(a);
+
+            
+
+        }
+
+        
+
+        System.Console.WriteLine("Hello C#");
+
+    }
+
+}
